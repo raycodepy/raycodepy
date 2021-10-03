@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @raycodepy
 - 👀 I’m interested in  cienci de dados, python e  Inteligencia artificial.
-- 🌱 I’m currently learning  python, Java e JavaScript.
+- 🌱 I’m currently learning  python e Java.
 - 💞️ I’m looking to collaborate on  projetos de INTELIGENCIA ARTIFICIAL e saúde e tecnologia.  
 - 📫 How to reach me : Intagram:@_hibymee, Email: rayanebrasili123@gmail.com, LinkedInd: Rayane Brasili.
 
